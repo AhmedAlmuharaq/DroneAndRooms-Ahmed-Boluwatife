@@ -1,0 +1,10 @@
+debug/canvas.o
+debug/determinant.o
+debug/main.o
+debug/mainwindow.o
+debug/polygon.o
+debug/serveranddrone.o
+debug/trianglemesh.o
+debug/vector2d.o
+debug/moc_canvas.o
+debug/moc_mainwindow.o

@@ -1,0 +1,54 @@
+{   "window": {
+        "origine": "-50,-80",
+        "size": "1500,1000"
+    },"servers": [
+        { "name": "Freljord","position": "181,51","color": "#5DADEC" },
+        { "name": "Demacia", "position": "114,256", "color": "#D9E5F1" },
+        { "name": "Noxus", "position": "705,81", "color": "#8B0000"},
+        { "name": "Ionia", "position": "1022,105", "color": "#A3C9A8"},
+        { "name": "Bilgewater", "position": "983,473", "color": "#4682B4"},
+        { "name": "Dark Islands", "position": "1210,668", "color": "#2B3A42"},
+        { "name": "Ixtal", "position": "770,668", "color": "#228B22"},
+        { "name": "Shurima", "position": "567,641", "color": "#E4B873"},
+        { "name": "Targon", "position": "310,702", "color": "#9370DB"},
+        { "name": "Piltover", "position": "683,385", "color": "#D4AF37"},
+        { "name": "Zaun", "position": "683,446", "color": "#6A994E"}
+],
+    "drones": [
+        { "name": "Ashe","color": "#5DADEC", "target":"Freljord", "position":"850,45"},
+        { "name": "Lissandra","color": "#5DADEC", "target":"Freljord" , "position":"1280,484"},
+        { "name": "Sejuani","color": "#5DADEC", "target":"Freljord","position":"505,694"},
+        { "name": "Jarvan IV","color": "#D9E5F1", "target":"Demacia","position":"1085,82" },
+        { "name": "Garen","color": "#D9E5F1", "target":"Demacia","position":"1065,624" },
+        { "name": "Lux","color": "#D9E5F1", "target":"Demacia" ,"position":"644,498"},
+        { "name": "Ambessa Medarda","color": "#8B0000", "target":"Noxus","position":"1176,362"},
+        { "name": "LeBlanc","color": "#8B0000", "target":"Noxus","position":"985,588"},
+        { "name": "Swain","color": "#8B0000", "target":"Noxus","position":"80,653"},
+        { "name": "Irelia","color": "#A3C9A8", "target":"Ionia","position":"380,823"},
+        { "name": "Yasuo","color": "#A3C9A8", "target":"Ionia","position":"1080,748"},
+        { "name": "Yone","color": "#A3C9A8", "target":"Ionia","position":"380,823" },
+        { "name": "Miss Fortune","color": "#4682B4", "target":"Bilgewater","position":"926,310"},
+        { "name": "Graves","color": "#4682B4", "target":"Bilgewater" ,"position":"985,688"},
+        { "name": "Twisted Fate","color": "#4682B4", "target":"Bilgewater","position":"1129,169"},
+        { "name": "Viego","color": "#2B3A42", "target":"Dark Islands","position":"687,600"},
+        { "name": "Thresh","color": "#2B3A42", "target":"Dark Islands","position":"49,273"},
+        { "name": "Kalista","color": "#2B3A42", "target":"Dark Islands","position":"496,183"},
+        { "name": "Qiyana","color": "#228B22", "target":"Ixtal","position":"242,147"},
+        { "name": "Neeko","color": "#228B22", "target":"Ixtal" ,"position":"642,347"},
+        { "name": "Nidalee","color": "#228B22", "target":"Ixtal","position":"42,425"},
+        { "name": "Azir","color": "#E4B873", "target":"Shurima","position":"242,147"},
+        { "name": "Renekton","color": "#E4B873", "target":"Shurima","position":"600,823"},
+        { "name": "Nasus","color": "#E4B873", "target":"Shurima","position":"45,125"},
+        { "name": "Leona","color": "#9370DB", "target":"Targon","position":"513,63"},
+        { "name": "Diana","color": "#9370DB", "target":"Targon","position":"761,455"},
+        { "name": "Aurelion Sol","color": "#9370DB", "target":"Targon","position":"807,511"},
+        { "name": "Caitlyn","color": "#D4AF37", "target":"Piltover","position":"878,162"},
+        { "name": "Jayce","color": "#D4AF37", "target":"Piltover","position":"480,390"},
+        { "name": "Séraphine","color": "#D4AF37", "target":"Piltover","position":"807,75"},
+        { "name": "Jinx","color": "#6A994E", "target":"Zaun","position":"1357,656"},
+        { "name": "Vi","color": "#6A994E", "target":"Zaun","position":"416,445"},
+        { "name": "Ekko","color": "#6A994E", "target":"Zaun","position":"920,830"}
+
+    ]
+}
+

@@ -1,0 +1,24 @@
+{
+  "window": {
+    "origine": "-120,-80",
+    "size": "1600,1100"
+  },
+  "servers": [
+    { "name": "Besançon",        "position": "220,850",  "color": "#6A1B9A" },
+    { "name": "Montbéliard",     "position": "520,180",  "color": "#00897B" },
+    { "name": "Belfort",         "position": "1050,260", "color": "#D81B60" },
+    { "name": "Vesoul",          "position": "1320,780", "color": "#F9A825" },
+    { "name": "Dole",            "position": "760,980",  "color": "#1E88E5" },
+    { "name": "Lons-le-Saunier", "position": "980,620",  "color": "#43A047" },
+    { "name": "Pontarlier",      "position": "350,420",  "color": "#EF6C00" }
+  ],
+  "drones": [
+    { "name": "Scott",  "position": "120,980",  "target": "Dole" },
+    { "name": "Pierre", "position": "1480,940", "target": "Vesoul" },
+    { "name": "Mario",  "position": "820,120",  "target": "Montbéliard" },
+    { "name": "Steve",  "position": "70,260",   "target": "Pontarlier" },
+    { "name": "Hanz",   "position": "1180,540", "target": "Belfort" },
+    { "name": "Bjorg",  "position": "640,760",  "target": "Lons-le-Saunier" },
+    { "name": "Diego",  "position": "260,700",  "target": "Besançon" }
+  ]
+}

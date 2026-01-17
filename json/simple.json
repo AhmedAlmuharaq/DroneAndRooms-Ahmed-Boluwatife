@@ -1,0 +1,24 @@
+{   "window": {
+        "origine": "-50,-40",
+        "size": "1200,900"
+    },
+    "servers": [
+        { "name": "Rome", "position": "96,703", "color": "#0000FF" },
+        { "name": "Paris","position": "221,128","color": "#FF0000" },
+        { "name": "London", "position": "398,569", "color": "#FFC0CB"},
+        { "name": "Berlin", "position": "1100,382", "color": "#FFFF00"},
+        { "name": "San Francisco", "position": "690,100", "color": "#00FFFF"},
+        { "name": "Copenhagen", "position": "911,822", "color": "#00FF00"},
+        { "name": "Madrid", "position": "750,475", "color": "#FFA500"}
+    ],
+    "drones": [
+        { "name": "Scott","position": "140,750", "target":"San Francisco"},
+        { "name": "Pierre","position": "1000,700", "target":"Paris" },
+        { "name": "Mario","position": "600,80", "target":"Rome" },
+        { "name": "Steve","position": "40,150", "target":"London" },
+        { "name": "Hanz","position": "400,500", "target":"Berlin" },
+        { "name": "Bjorg","position": "200,50", "target":"Copenhagen"},
+        { "name": "Diego","position": "150,620", "target":"Madrid"}
+    ]
+}
+

@@ -1,0 +1,10 @@
+release/canvas.o
+release/determinant.o
+release/main.o
+release/mainwindow.o
+release/polygon.o
+release/serveranddrone.o
+release/trianglemesh.o
+release/vector2d.o
+release/moc_canvas.o
+release/moc_mainwindow.o
